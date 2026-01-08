@@ -1,0 +1,7 @@
+{
+  "name": "Bitquery_v16_Monopoly_share",
+  "description": "The next-gen AI crypto co-pilot using Gemini 3 Pro and Flash to provide real-time market sentiment, advanced reasoning, intelligent trading insights, and personalized education.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
